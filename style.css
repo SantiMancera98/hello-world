@@ -10,3 +10,10 @@ fieldset {border-radius: 25px;
         margin: 10px;}
 
 pre {background-color: tomato;}
+
+a {text-decoration: none;}
+
+img {float: right;
+        width: 200px;
+        height: 200px;
+        border-radius: 100px;}
